@@ -5,9 +5,7 @@
     "main": "server.js",
     "scripts": {
       "start": "node server.js",
-      "dev": "nodemon index",
-      "seed": "node utils/seed",
-      "heroku-postbuild": "node utils/seed.js"
+      "dev": "nodemon index"
     },
     "dependencies": {
       "express": "^4.17.1",
