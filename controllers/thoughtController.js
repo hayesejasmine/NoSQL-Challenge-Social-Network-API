@@ -8,8 +8,8 @@ getThought(req, res) {
     .catch((err) => res.status(500).json(err));
 },
 
-getOneThought(req, res) {
-    Thought.findOne({_id: req.params.thoughtId})
+getSingleThought(req, res) {
+    Thought.findOne({ _id: req.params.thoughtId})
     .select("-__v")
     .then((thought) =>
     !thought

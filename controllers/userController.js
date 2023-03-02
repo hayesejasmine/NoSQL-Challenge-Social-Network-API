@@ -18,7 +18,7 @@ module.exports = {
         : res.json(user)
         )
         .catch((err) => res.status(500).json(err));
-    }
+    },
 
 createUser(req, res) {
    User.create(req.body)
@@ -41,7 +41,7 @@ updateUser(req, res) {
         : res.json(user)
         )
         .catch((err) => res.status(500).json(err));
-}
+},
 
 deleteUser(req,res) {
 User.findOneAndDelete({ _id: req.params.userId })
