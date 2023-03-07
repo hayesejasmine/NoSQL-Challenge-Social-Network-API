@@ -19,9 +19,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 
 # Mock-Up Images
-![](Screen%20Shot%202023-03-06%20at%2010.49.57%20PM.png)
-![](Screen%20Shot%202023-03-06%20at%2011.12.11%20PM.png)
-![](Screen%20Shot%202023-03-06%20at%2011.12.43%20PM.png)
+![](images/Screen%20Shot%202023-03-06%20at%2010.49.57%20PM.png)
+![](images/Screen%20Shot%202023-03-06%20at%2011.12.11%20PM.png)
+![](images/Screen%20Shot%202023-03-06%20at%2011.12.43%20PM.png)
 
 # Walkthrough Video
 
