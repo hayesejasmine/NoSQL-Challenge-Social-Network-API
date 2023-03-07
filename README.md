@@ -19,4 +19,4 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 
 # Mock-Up Images
-![getthoughts](/Users/jasminehayes/Assignments/NoSQL-Challenge-Social-Network-API/Screen Shot 2023-03-06 at 10.49.57 PM.png)
+![getthoughts](NoSQL-Challenge-Social-Network-API/Screen%20Shot%202023-03-06%20at%2010.49.57%20PM.png)
